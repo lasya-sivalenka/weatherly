@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1176734,
+    "name": "Hyderabad",
+    "state": "",
+    "country": "PK",
+    "coord": {
+      "lon": 68.373657,
+      "lat": 25.39242
+    }
+  },
+  {
+    "id": 1269843,
+    "name": "Hyderabad",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 78.474442,
+      "lat": 17.37528
+    }
+  },
+  {
+    "id": 1261481,
+    "name": "New Delhi",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.23114,
+      "lat": 28.61282
+    }
+  },
+  {
+    "id": 1273292,
+    "name": "Delhi Cantonment",
+    "state": "",
+    "country": "IN",
+    "coord": {
+      "lon": 77.133331,
+      "lat": 28.6
+    }
+  },
+  {
+    "id": 4350049,
+    "name": "California",
+    "state": "MD",
+    "country": "US",
+    "coord": {
+      "lon": -76.507446,
+      "lat": 38.3004
+    }
+  },
+  {
+    "id": 4350175,
+    "name": "Cambridge",
+    "state": "MD",
+    "country": "US",
+    "coord": {
+      "lon": -76.078827,
+      "lat": 38.563171
+    }
+  }
+]
