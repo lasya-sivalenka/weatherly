@@ -1,7 +1,7 @@
 <div class="main">
   <app-type-ahead (selectedCity)="getWeather($event)"></app-type-ahead>
-  <div class="weather-class">
+  <div class="weather">
+    <app-map *ngIf="weatherService.mapCoords" [coords] = "weatherService.mapCoords"></app-map>
     <app-weather-card></app-weather-card>
-    <!-- <app-map *ngIf="weatherService.mapCoords" [coords] = "weatherService.mapCoords"></app-map> -->
   </div>
 </div>
