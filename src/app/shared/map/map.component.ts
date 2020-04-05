@@ -26,9 +26,7 @@ export class MapComponent implements OnInit, AfterViewInit, OnChanges  {
   }
 
   ngAfterViewInit() {
-    setTimeout(() => {
-      this.mapInitializer();
-    }, 0);
+    this.mapInitializer();
    }
 
   mapInitializer() {
